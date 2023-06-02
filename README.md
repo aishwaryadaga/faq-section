@@ -1,0 +1,2 @@
+# faq-section
+FAQ section
